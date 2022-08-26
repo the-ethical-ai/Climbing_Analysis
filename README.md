@@ -1,6 +1,6 @@
 # Climbing_Performance_Myth_Tester
 
-Hello! This repository current houses a single Excel file which will periodically be updated. The file includes information regarding indoor rock climbers' performances at varying gyms and at differing times. 
+Hello! This repository currently houses a single Excel file which will periodically be updated. The file includes information regarding indoor rock climbers' performances at varying gyms and at differing times. 
 
 DATA COLLECTION IS ONGOING! If you would like to contribute your own data (which would be very much appreciated) feel free to reach out! If submitting data, please consult the Excel file included here to get an idea about the sorts of information I am interested in. Submissions formatted in way friendly to R, SQL, or Python (REQUEST: Please include the same column headers as those included in the Excel file. If they are different or absent, that is alright but I prefer they be included) are acceptable.
 
