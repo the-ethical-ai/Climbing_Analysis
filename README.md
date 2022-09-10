@@ -1,6 +1,6 @@
 # Climbing_Performance_Myth_Tester
 
-Hello! This repository currently houses a single CSV file which will periodically be updated. The file includes information regarding rock climbers' bouldering performances at varying gyms and at differing times. 
+Hello! This repository currently houses a CSV file which will periodically be updated as data comes in. The file includes information regarding rock climbers' bouldering performances at varying gyms and at differing times. 
 
 DATA COLLECTION IS ONGOING! If you would like to contribute your own data (which would be very much appreciated) feel free to reach out (I am currently transitioning my means of data collection to make this easier for contributors)! If submitting data, please consult the Excel file included here to get an idea about the sorts of information I am interested in. Submissions formatted in way friendly to R, SQL, or Python (any standard delimiter is acceptable).
 
@@ -22,4 +22,4 @@ Some Final Notes:
 
 If you would like to be cited in the final project for providing data, please include your name, title (if applicable), and professional/academic association(s) (if applicable). If you do not explicitly mention this, I will, for the sake of the anonymity of other contributors, exclude any identifying information from any and all products resulting from this research. 
 
-This project is being worked on by me alone and is not in any way associated with any particular institution. As such, I cannot offer any financial compensation for contributing to this research, be it offering data or suggestions with the code. 
+This project is being worked on by me alone and is not in any way associated with any particular institution. As such, I cannot offer any financial compensation for contributing to this research, be it offering data or suggestions with the code. Moreover, as I am currently learning Python and SQL, this data is largely being used to practice.
