@@ -16,14 +16,18 @@ In case you are wondering why I called this repository "Climbing_Performance_Myt
    2. In addition to this possible myth about climbing, I have encountered a rather large number of seemingly ubiquitous beliefs among climbers about climbing, including but not limited to:
   
       I. American climbing gyms overgrade and are usually easier than European gyms.
+      
       II. A person's outdoor climbing max grade is usually two lower than their indoor max grade.
+      
       III. Kilter board climbs are overgraded.
-      IV. Moon board climbs are undergraded and/or aligned with outdoor grades.
-      V. Bouldering is easier than lead climbing.
-      VI. Lead climbing is easier than bouldering.
-      VII. Speed climbing is boring (not a measurable claim but one that I contest all the same).
+      
+      IV. Bouldering is easier than lead climbing.
+      
+      V. Speed climbing is boring (not a measurable claim but one that I contest all the same).
+      
       ...and my personal favorite.
-      VIII. Crimps are the hardest type of hold to deal with (in all fairness, I've heard the same said of every type of hold except jugs).
+      
+      VI. Crimps are the hardest type of hold to deal with (in all fairness, I've heard the same said of every type of hold except jugs).
       
 And that's a nice short(ish) summary of what this repository is for, why it's called what it is, and what I hope to do with it. Enjoy!
 
