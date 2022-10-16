@@ -14,6 +14,7 @@ In case you are wondering why I called this repository "Climbing_Performance_Myt
 
    1. I have heard a lot of newer climbers, especially in rock climbing gyms, express the (I believe) false sentiment that really skilled climbers fall less than beginner or intermediate climbers. Having no actual data with which to assess the truthfulness of said assertion and a surprisingly large amount of curiousity about the question, I started collecting data on my own climbing.
    2. In addition to this possible myth about climbing, I have encountered a rather large number of seemingly ubiquitous beliefs among climbers about climbing, including but not limited to:
+  
       I. American climbing gyms overgrade and are usually easier than European gyms.
       II. A person's outdoor climbing max grade is usually two lower than their indoor max grade.
       III. Kilter board climbs are overgraded.
