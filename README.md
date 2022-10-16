@@ -1,25 +1,29 @@
 # Climbing_Performance_Myth_Tester
 
-This repository currently houses a CSV file which will periodically be updated as data comes in. The file includes information regarding rock climbers' bouldering performances at varying gyms and at differing times. 
+Hi! This is where I am currently storing data I am collecting on my rock climbing progression. At the moment, the data consists only of indoor climbing records but this will hopefully be expanded over the coming few months. I am also looking to combine my own climbing data with others' data, though I am currently working on how best to obtain said data (I'm mostly trying to make data submission more convenient at the moment).
 
-DATA COLLECTION IS ONGOING! If you would like to contribute your own data (which would be very much appreciated) feel free to reach out (I am currently transitioning my means of data collection to make this easier for contributors)! If submitting data, please consult the CSV file included here to get an idea about the sorts of information I am interested in. Submissions formatted in way friendly to R, SQL, or Python (any standard delimiter is acceptable).
+While the endgoal of this data collection to build out machine learning models for predicting efficiency rates in climbing (essentially ratios of attempts to completions of climbs), I will periodically be uploading other, smalleer projects I make using the data. These are likely to include:
 
-NOTE: If submitting data, please include the same column headers as those included in the CSV file. If they are different or absent, your data will still be used but it just makes it easier for me when I am compiling the data sources into a single file. The headers are as follows (in this order):
+   1. A Tableau Dashboard (using Tableau Public; the paid version is way too expensive!)
+   2. SQL queries (especially if I manage to get other people's data [likely to be stored in a database instead of Excel])
+   3. Data Visualizations (using R and/or Python so I can practice the graphical libraries for both languages)
 
-Date, Country, Type_of_Climbing, Location, Grade, Attempts, Completed, Crux_Move_Type(s), and Repeat.
+At the moment, I am storing the data in an Excel file since I expect the data to remain relatively small in size (no larger than a few thousand rows). If the project should become collaborative (which I hope to make it), I will swtich to using a database for ease of use in multiple locations.
 
-Date refers to the date either when the climb was first completed or when the latest attempt was made. Type_of_Climbing is "bouldering", "lead", "top rope", or "free solo". Location is either the name of the climbing wall/gym where the climb is located or if climbing outdoors, simply "outdoors" [If you wish to specify an outdoors location further, that is okay but please include the word "outdoors", e.g. "Colorado outdoors"]. Grade is the difficulty of the route/boulder [Any of the following scales are acceptable: French (e.g., 7C, V-System (e.g., V9), 5 point system (e.g., 5.12c)]. Attempts is the number of attempts made up to and including completing the climb. Completed is either "yes" or "no". Crux_Move_Type(s) is the type of holds/moves that are the hardest parts of a climb (all sorts of descriptors are acceptable here so long as they are in English. For example, "crimps", "sloper", "dyno", and combinations such as "pinches/crimps" are all acceptable). Finally, Repeat is either "yes" or "no" [yes means that the climb has been done before by you and you are repeating the route/boulder]. 
+In case you are wondering why I called this repository "Climbing_Performance_Myth_Tester", there are two reasons:
 
-Once the data collection process has been completed, I will begin working on the following components:
+   1. I have heard a lot of newer climbers, especially in rock climbing gyms, express the (I believe) false sentiment that really skilled climbers fall less than beginner or intermediate climbers. Having no actual data with which to assess the truthfulness of said assertion and a surprisingly large amount of curiousity about the question, I started collecting data on my own climbing.
+   2. In addition to this possible myth about climbing, I have encountered a rather large number of seemingly ubiquitous beliefs among climbers about climbing, including but not limited to:
+      I. American climbing gyms overgrade and are usually easier than European gyms.
+      II. A person's outdoor climbing max grade is usually two lower than their indoor max grade.
+      III. Kilter board climbs are overgraded.
+      IV. Moon board climbs are undergraded and/or aligned with outdoor grades.
+      V. Bouldering is easier than lead climbing.
+      VI. Lead climbing is easier than bouldering.
+      VII. Speed climbing is boring (not a measurable claim but one that I contest all the same).
+      ...and my personal favorite.
+      VIII. Crimps are the hardest type of hold to deal with (in all fairness, I've heard the same said of every type of hold except jugs).
+      
+And that's a nice short(ish) summary of what this repository is for, why it's called what it is, and what I hope to do with it. Enjoy!
 
-1. Predictive algorithms for the efficiency (attempts to completions ratio) of a given climber.
-2. An interactive dashboard that allows users to imput their own data (probably in the form of summary statistics) and have said dashboard return 
-   information about how a user measures up to different climbers (e.g., comparisons to average, advanced, and [if possible] professional climbers).
-
-These components will likely be modified as the project progresses and should not be taken as strict descriptions of the expected final product(s). 
-
-Some Final Notes:
-
-If you would like to be cited in the final project for providing data, please include your name, title (if applicable), and professional/academic association(s) (if applicable). If you do not explicitly mention this, I will, for the sake of the anonymity of other contributors, exclude any identifying information from any and all products resulting from this research. 
-
-This project is being worked on by me alone and is not in any way associated with any particular institution. As such, I cannot offer any financial compensation for contributing to this research, be it offering data or suggestions with the code. Moreover, as I am currently learning Python and SQL, this data is largely being used to practice.
+p.s. feel free to critique any of the projects I put in this repository. I am always looking to improve my work.
