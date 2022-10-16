@@ -1,6 +1,6 @@
 # Climbing_Performance_Myth_Tester
 
-Hello! This repository currently houses a CSV file which will periodically be updated as data comes in. The file includes information regarding rock climbers' bouldering performances at varying gyms and at differing times. 
+This repository currently houses a CSV file which will periodically be updated as data comes in. The file includes information regarding rock climbers' bouldering performances at varying gyms and at differing times. 
 
 DATA COLLECTION IS ONGOING! If you would like to contribute your own data (which would be very much appreciated) feel free to reach out (I am currently transitioning my means of data collection to make this easier for contributors)! If submitting data, please consult the CSV file included here to get an idea about the sorts of information I am interested in. Submissions formatted in way friendly to R, SQL, or Python (any standard delimiter is acceptable).
 
