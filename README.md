@@ -2,13 +2,9 @@
 
 Hi! This is where I am currently storing data I am collecting on my rock climbing progression. At the moment, the data consists only of indoor climbing records but this will hopefully be expanded over the coming few months. I am also looking to combine my own climbing data with others' data, though I am currently working on how best to obtain said data (I'm mostly trying to make data submission more convenient at the moment).
 
-While the endgoal of this data collection to build out machine learning models for predicting efficiency rates in climbing (essentially ratios of attempts to completions of climbs), I will periodically be uploading other, smalleer projects I make using the data. These are likely to include:
+The endgoal of this data collection to build out machine learning models for predicting the estimated time for a given climber to successfully climb a user-selected difficulty grade.
 
-   1. A Tableau Dashboard (using Tableau Public; the paid version is way too expensive!)
-   2. SQL queries (especially if I manage to get other people's data [likely to be stored in a database instead of Excel])
-   3. Data Visualizations (using R and/or Python so I can practice the graphical libraries for both languages)
-
-At the moment, I am storing the data in an Excel file since I expect the data to remain relatively small in size (no larger than a few thousand rows). If the project should become collaborative (which I hope to make it), I will swtich to using a database for ease of use in multiple locations.
+At the moment, I am storing the data in an Excel file since I expect the data to remain relatively small in size (no larger than a few thousand rows). If the project should become collaborative (which I hope to make it), I may swtich to using a database for ease of use in multiple locations.
 
 In case you are wondering why I called this repository "Climbing_Performance_Myth_Tester", there are two reasons:
 
@@ -29,6 +25,6 @@ In case you are wondering why I called this repository "Climbing_Performance_Myt
       
       VI. Crimps are the hardest type of hold to deal with (in all fairness, I've heard the same said of every type of hold except jugs).
       
-And that's a nice short(ish) summary of what this repository is for, why it's called what it is, and what I hope to do with it. Enjoy!
+And that's a short(ish) summary of what this repository is for, why it's called what it is, and what I hope to do with it. Enjoy!
 
-p.s. feel free to critique any of the projects I put in this repository. I am always looking to improve my work.
+p.s. feel free to critique any of the components I put in this repository. I am always looking to improve my work.
