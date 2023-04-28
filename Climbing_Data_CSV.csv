@@ -1,0 +1,2579 @@
+Date,Type_of_Climbing,Country,Location,Grade,Attempts,Completed,Crux_Move_Type,Repeat ,Terrain
+5/24/22,Bouldering,United States,Gravity Vault Montclair,V9,3,yes,crimp,no,overhang
+5/24/22,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,crimp,no,unknown
+6/24/22,Bouldering,United States,Gravity Vault Montclair,V8,8,no,sloper,no,overhang
+6/24/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp,no,unknown
+7/18/22,Bouldering,United States,Gravity Vault Montclair,V7,4,yes,jug,no,unknown
+7/25/22,Bouldering,United States,Gravity Vault Montclair,V8,3,yes,pinch,no,overhang
+7/25/22,Bouldering,International,Kilter Board,V4,1,yes,dyno,no,unknown
+7/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,unknown
+7/29/22,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,sloper,no,unknown
+7/29/22,Bouldering,United States,Gravity Vault Montclair,V6,5,yes,sloper/feature,no,unknown
+8/3/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,unknown
+8/10/22,Bouldering,International,Kilter Board,V8,5,yes,dyno,no,overhang
+8/10/22,Bouldering,International,Kilter Board,V9,4,yes,crimp,no,overhang
+8/10/22,Bouldering,International,Kilter Board,V8,2,yes,pinch,no,overhang
+8/10/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno,no,unknown
+8/12/22,Bouldering,United States,Gravity Vault Montclair,V7,8,yes,crimp/sloper,no,unknown
+8/25/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,pinch,no,unknown
+8/25/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,jug,no,unknown
+8/25/22,Bouldering,Sweden,Klattercentret Malmö,7B,3,no,pinch,no,unknown
+8/25/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,no,pinch,no,unknown
+8/25/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,pinch,no,unknown
+8/25/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,crimp,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,pinch,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6C ,1,yes,sloper ,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7C,2,no,pinch/sloper,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,pockets,yes,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7B,1,yes,pinch,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7C+,5,no,crimp ,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7B,2,yes,crimp,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7A ,2,no,pinch ,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,sloper,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7B+,1,no,crimp,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,sloper,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6B ,1,yes,jug,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,crimp,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,7C ,2,no,pinch,no,unknown
+8/26/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,pockets,yes,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,jug,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6A ,1,yes,jug,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,5+,1,yes,sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,crimps,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6B ,1,yes,crimps/sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,jugs,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,no,2 finger pocket,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7C+,4,no,crimp,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7B,2,yes,pinch,yes,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7C,5,no,pinch/sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A+,6,no,dyno/sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7B,3,no,crimp,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7B,4,no,two finger pocket/crimp,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7B,3,no,sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A,2,no,compression,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,sloper,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A,2,no,pinch,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,no,dyno,no,unknown
+8/29/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,sloper,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,jug,yes,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,5,1,yes,sloper,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7A ,3,no,sloper,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,pinch,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,crimp,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,sloper,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,two finger pocket,yes,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7B,2,no,sloper,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7A+,5,yes,crimp,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7C,3,no,two finger pocket/crimp,no,unknown
+9/2/22,Bouldering,Sweden,Klattercentret Malmö,7A,2,no,dyno,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,5+,1,yes,sloper,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C,2,no,sloper/crimp,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,sloper,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6B+,3,no,run-and-jump,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,jug,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,two finger pocket,yes,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C,1,yes,yes,yes,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,yes,sloper,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,yes,pinch,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7C+,1,no,crimp,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7B,1,yes,pinch,yes,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,crimp,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7C,1,no,sloper,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,yes,crimp,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,pinch,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C,1,yes,pinch,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7C+,2,no,crimp,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7C,1,no,sloper,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7A,3,yes,sloper,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C+,2,no,two finger pocket,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,7B,1,no,sloper/pinch,no,unknown
+9/6/22,Bouldering,Sweden,Klattercentret Malmö,6C,2,yes,sloper,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,jugs,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,crimp,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,no,crimp,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,jugs,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,7B+,10,no,sloper,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,7A+,3,no,dyno,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,no,mantle,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,7B,7,no,pinch/crimp,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,7C,1,no,mantle/crimp,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,7A,1,no,crimp,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,gaston,no,unknown
+9/9/22,Bouldering,Sweden,Klattercentret Malmö,6C,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6B+,1,yes,pinch,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6C,1,yes,crimp,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,2+,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7B,5,no,dyno,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,4,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6B+,2,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7A+,2,no,crimps,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6C,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6B,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6A,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6A+,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7C,1,no,pinch,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,5+,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7C+,3,no,two finger pocket,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,5-,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6C,2,yes,crimp/pinch,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6A+,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,3+,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6A,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6B+,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6C,2,no,crimp,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,5,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7A+,5,no,pinches/dyno,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6C,1,yes,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7A,4,no,crimp/sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,5+,1,yes,jugs,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6A+,1,yes,pinch,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6C,3,no,sloper,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,6B,1,yes,pinch,no,unknown
+9/17/22,Bouldering,Denmark,Beta Boulder South,7B,4,no,sloper/pinch,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,7C,4,no,sloper,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,7B+,4,no,crimp,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,7B,3,no,sloper/pinch,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,7A+,3,no,dyno/sloper,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,7A+,2,yes,crimp,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6C+,3,no,sloper,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,7A,3,no,sloper/pinch,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6C,1,yes,pinch,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6B,1,yes,sloper,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6A,1,yes,jugs,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,3+,1,yes,jugs,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6C,1,yes,crimps,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6B,1,yes,pockets,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6B+,1,yes,pinch,no,unknown
+9/18/22,Bouldering,Denmark,Beta Boulder West,6A,1,yes,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,4,1,yes,jugs,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,crimp,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6C,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,crimp,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,jugs,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,crimp,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,no,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,7B,3,no,sloper/pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,7B,1,no,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6C+,1,yes,jugs,yes,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,crimp,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6C,3,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6B+,1,yes,two finger pocket,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,7A+,1,no,dyno,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,sloper,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A,1,yes,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6A+,1,yes,pinch,no,unknown
+9/23/22,Bouldering,Sweden,Klattercentret Malmö,6B,1,yes,mantle,no,unknown
+9/27/22,Bouldering,United States,Gravity Vault Chatham,V9,3,no,crimp,no,unknown
+9/27/22,Bouldering,United States,Gravity Vault Chatham,V7,2,no,pinch,no,unknown
+9/27/22,Bouldering,United States,Gravity Vault Chatham,V2,1,yes,jugs,no,unknown
+9/27/22,Bouldering,United States,Gravity Vault Chatham,V4,1,yes,sloper,no,unknown
+9/27/22,Bouldering,United States,Gravity Vault Chatham,V1,1,yes,jug,no,unknown
+9/27/22,Bouldering,United States,Kilter Board,V7,1,yes,crimps,no,unknown
+9/27/22,Bouldering,United States,Kilter Board,V6,1,yes,pinch,no,unknown
+9/27/22,Bouldering,United States,Kilter Board,V7,2,yes,pinch,no,unknown
+9/27/22,Bouldering,United States,Kilter Board,V9,1,no,pinch,no,unknown
+9/27/22,Top Rope,United States,Gravity Vault Chatham,5.13d,1,no,sloper/pinch,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jug,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jug,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jug,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jug,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jug,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V6,1,no,mantle,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V9,3,no,crimp,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V7,1,no,sloper,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V7,1,no,sloper,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V6,2,no,sloper,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,mantle,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V6,1,no,balance,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,sloper,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V6,2,no,dyno/sloper,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,unknown
+10/4/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,no,unknown
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,balance,no,straight
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,sloper/mantle,no,slab
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V8,5,no,crimp,no,overhang
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V6,5,yes,balance,no,slab
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,overhang
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+10/6/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jug,no,overhang
+10/6/22,Bouldering,International,Kilter Board,V11,2,no,dyno/crimp,no,overhang
+10/6/22,Bouldering,International,Kilter Board,V4,1,yes,crimp,no,overhang
+10/6/22,Bouldering,International,Kilter Board,V8,2,no,pinch,no,overhang
+10/8/22,Bouldering,International,Kilter Board,V7,2,yes,crimp,no,overhang
+10/8/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,crimp,no,overhang
+10/8/22,Bouldering,United States,Gravity Vault Montclair,V11,1,no,crimp/pinch,no,overhang
+10/10/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,no,straight
+10/10/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+10/10/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,mantle,no,overhang
+10/10/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V5,1,yes,sloper,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V9,1,no,pinch,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V8,1,no,pinch,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V6,1,yes,dyno,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V10,4,no,dyno/crimp,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V8,1,no,crimp,no,overhang
+10/10/22,Bouldering,International,Kilter Board,V7,2,no,sloper,no,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,dyno/sloper,no,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,slab
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V11,1,no,sloper/crimp,no,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,dyno,yes,straight
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,straight
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jug,yes,straight
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,crimp,no,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+10/11/22,Bouldering,United States,Gravity Vault Montclair,V6,4,yes,run-and-jump,no,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jug,no,slab
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jug,no,slab
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jug,no,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp,no,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jug,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jug,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V5,1,no,crimp,no,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V8,4,yes,dyno/crimp,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V11,1,no,pinch/crimp,no,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,gaston,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,gaston,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,edge,yes,slab
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jug,yes,overhang
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,run-and-jump,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,mantle,yes,straight
+10/13/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+10/13/22,Bouldering,International,Kilter Board,V7,1,no,crimp,no,overhang
+10/13/22,Bouldering,International,Kilter Board,V7,1,no,crimp,no,overhang
+10/13/22,Bouldering,International,Kilter Board,V6,1,yes,crimp,no,overhang
+10/13/22,Bouldering,International,Kilter Board,V10,1,no,crimp,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jug,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V8,4,yes,crimp,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jug,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jug,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,pinch,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V10,6,no,crimp,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,no,straight
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+10/24/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,no,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V10,2,no,crimp,no,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,no,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+10/25/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+10/26/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+10/26/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,edge,no,overhang
+10/26/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,balance,yes,slab
+10/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,slab
+10/26/22,Bouldering,United States,Gravity Vault Montclair,V7,4,yes,dyno,no,overhang
+10/26/22,Bouldering,International,Kilter Board,V6,2,yes,pinch,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V4,1,yes,sloper,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V6,1,no,jugs,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V8,1,no,sloper,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V4,1,yes,sloper,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V3,2,yes,sloper,no,straight
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V4,1,yes,sloper,no,straight
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V7,3,no,sloper,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V4,1,yes,pinch,no,straight
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V2,1,yes,sloper,no,straight
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V5,1,no,pinch,no,straight
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V5,1,yes,pinch,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V7,3,yes,sloper,no,overhang
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V4,1,yes,sloper,no,straight
+10/29/22,Bouldering,United States,GOAT Climbing Gym,V8,2,no,crimp,no,straight
+10/29/22,Lead,United States,GOAT Climbing Gym,5.13b,1,no,crimp,no,overhang
+10/29/22,Lead,United States,GOAT Climbing Gym,5.14b,1,no,sloper,no,overhang
+10/29/22,Lead,United States,GOAT Climbing Gym,5.10,1,yes,sloper,no,overhang
+10/29/22,Lead,United States,GOAT Climbing Gym,5.9,1,yes,jugs,no,straight
+10/29/22,Lead,United States,GOAT Climbing Gym,5.12,1,no,pinch,no,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,yes,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,no,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,compression,no,straight
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,dyno/sloper,no,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V6,3,yes,dyno,no,overhang
+10/31/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,sloper,no,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,no,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,pinch/crimp,no,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,slab
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,slab
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,slab
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V7,4,no,balance,no,slab
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V10,1,no,crimp,no,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,dyno,yes,overhang
+11/2/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,sloper,no,straight
+11/2/22,Bouldering,International,Kilter Board,V7,4,no,sloper/crimp,no,overhang
+11/2/22,Bouldering,International,Kilter Board,V8,1,no,crimp,no,overhang
+11/2/22,Bouldering,International,Kilter Board,V8,1,no,mantle,no,overhang
+11/2/22,Bouldering,International,Kilter Board,V8,1,no,cross,no,overhang
+11/2/22,Bouldering,International,Kilter Board,V7,1,yes,crimp,no,overhang
+11/2/22,Bouldering,International,Kilter Board,V7,2,no,jugs,no,overhang
+11/2/22,Bouldering,International,Kilter Board,V8,1,no,crimp,no,overhang
+11/2/22,Bouldering,International,Moon Board,V5,1,yes,pinch,no,overhang
+11/2/22,Bouldering,International,Moon Board,V5,1,yes,pinch,no,overhang
+11/2/22,Bouldering,International,Moon Board,V6,1,no,crimp,no,overhang
+11/3/22,Bouldering,International,Moon Board,V8,1,no,crimp,no,overhang
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,no,40
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,yes,40
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,yes,40
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,yes,40
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,yes,40
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,yes,40
+11/3/22,Bouldering,International,Kilter Board,V4,1,yes,pinch,no,40
+11/3/22,Bouldering,International,Kilter Board,V4,1,yes,pinch,yes,40
+11/3/22,Bouldering,International,Kilter Board,V4,1,yes,pinch,yes,40
+11/3/22,Bouldering,International,Kilter Board,V4,1,yes,pinch,yes,40
+11/3/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,no,40
+11/3/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,yes,40
+11/3/22,Bouldering,International,Kilter Board,V9,1,no,crimp,no,40
+11/3/22,Bouldering,International,Kilter Board,V8,1,no,dyno,no,40
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,crimp,no,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,dyno,yes,overhang
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,mantle,yes,slab
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,slab
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,straight
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+11/3/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,dyno/crimp,yes,straight
+11/3/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,no,50
+11/3/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,no,50
+11/3/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,50
+11/3/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,yes,50
+11/3/22,Bouldering,International,Kilter Board,V2,1,yes,jugs,no,50
+11/3/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,no,70
+11/3/22,Bouldering,International,Kilter Board,V9,2,no,crimp,no,70
+11/3/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,no,40
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,pinch,no,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V5,5,yes,sloper,no,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,no,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,no,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,sloper/mantle,yes,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V8,5,yes,sloper,no,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,sloper/mantle,no,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,mantle/sloper,yes,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,1,no,edge,no,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,straight
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,dyno/sloper,yes,overhang
+11/7/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,straight
+11/7/22,Bouldering,International,Kilter Board,V3,1,yes,pinch,no,40
+11/7/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,40
+11/7/22,Bouldering,International,Kilter Board,V2,1,yes,jugs,no,40
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,overhang
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,overhang
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,sloper/pinch,yes,overhang
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+11/8/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,sloper/gaston,no,overhang
+11/8/22,Bouldering,International,Kilter Board,V9,1,no,pinch,no,30
+11/8/22,Bouldering,International,Kilter Board,V7,1,no,pinch,no,30
+11/8/22,Bouldering,International,Kilter Board,V6,2,yes,crimp,no,30
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,slab
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,slab
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V7,1,no,balance,no,slab
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,mantle,yes,overhang
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,crimp/dyno,yes,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,yes,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,no,straight
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V4,2,yes,sloper,no,overhang
+11/10/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimps,no,overhang
+11/10/22,Bouldering,International,Kilter Board,V7,1,no,crimp/dyno,no,40
+11/11/22,lead,United States,Gravity Vault Flemington,5.10a,1,yes,jugs,no,overhang
+11/11/22,lead,United States,Gravity Vault Flemington,5.11c,1,yes,pinch,no,overhang
+11/11/22,lead,United States,Gravity Vault Flemington,5.11a,1,yes,crimp,no,overhang
+11/11/22,lead,United States,Gravity Vault Flemington,5.13a,1,no,pinch,no,overhang
+11/11/22,lead,United States,Gravity Vault Flemington,5.11d,1,no,sloper,no,overhang
+11/11/22,Bouldering,United States,Gravity Vault Flemington,V5,1,yes,sloper,no,overhang
+11/11/22,Bouldering,United States,Gravity Vault Flemington,V8,1,no,crimp,no,overhang
+11/11/22,Bouldering,United States,Gravity Vault Flemington,V6,3,no,mantle,no,straight
+11/13/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,no,30
+11/13/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,no,30
+11/13/22,Bouldering,International,Kilter Board,V4,1,yes,edge,no,30
+11/13/22,Bouldering,International,Kilter Board,V4,1,yes,sloper,no,30
+11/13/22,Bouldering,International,Kilter Board,V4,1,yes,sloper,no,30
+11/13/22,Bouldering,International,Kilter Board,V5,1,yes,jugs,no,30
+11/13/22,Bouldering,International,Kilter Board,V5,1,yes,sloper,no,30
+11/13/22,Bouldering,International,Kilter Board,V9,1,no,crimp,no,30
+11/13/22,Bouldering,International,Kilter Board,V14,1,no,dyno/crimp,no,30
+11/13/22,Bouldering,International,Kilter Board,V10,1,no,crimp,no,50
+11/13/22,Bouldering,International,Kilter Board,V9,1,no,crimp,no,50
+11/13/22,Bouldering,International,Kilter Board,V8,1,no,edge,no,50
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,no,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V7,4,yes,mono/crimp,no,straight
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,sloper,no,overhang
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,overhang
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,pinch/sloper,yes,overhang
+11/14/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,overhang
+11/14/22,Bouldering,International,Kilter Board,7A+,2,no,pinch,no,40
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,yes,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V6,5,no,sloper,no,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+11/15/22,Bouldering,United States,Gravity Vault Montclair,V7,2,no,crimp/mono,no,straight
+11/15/22,Bouldering,International,Kilter Board,V8,1,yes,crimp,no,50
+11/15/22,Bouldering,International,Kilter Board,V4,1,yes,crimp,no,30
+11/15/22,Bouldering,International,Kilter Board,V9,1,no,pinch,no,30
+11/15/22,Bouldering,International,Kilter Board,V5,1,yes,jugs,no,50
+11/15/22,Bouldering,International,Kilter Board,V8,1,no,pinch,no,50
+11/15/22,Bouldering,International,Kilter Board,V5,1,no,pinch,no,50
+11/15/22,Bouldering,International,Kilter Board,V9,2,no,pinch/crimp,no,50
+11/15/22,Bouldering,International,Kilter Board,V8,1,yes,crimp,no,50
+11/15/22,Bouldering,International,Kilter Board,7B+,1,no,edge,no,50
+11/15/22,Bouldering,International,Kilter Board,7B,1,yes,sloper,no,50
+11/15/22,Bouldering,International,Moon Board,V5,1,no,crimp,no,40
+11/15/22,Bouldering,International,Moon Board,V5,1,no,crimp/sloper,no,40
+11/15/22,Bouldering,International,Moon Board,V5,1,yes,crimp,no,40
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp/mono,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/pinch,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/pinch,yes,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V6,5,no,sloper,no,straight
+11/16/22,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,dyno,yes,overhang
+11/16/22,Bouldering,International,Kilter Board,V9,3,no,pinch/crimp,no,50
+11/16/22,Bouldering,International,Kilter Board,V7,1,yes,crimp,no,50
+11/16/22,Bouldering,International,Kilter Board,6B,1,yes,jugs,no,50
+11/16/22,Bouldering,International,Kilter Board,V10,1,no,pinch,no,50
+11/16/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,50
+11/16/22,Bouldering,International,Kilter Board,V9,1,no,crimp,no,50
+11/16/22,Bouldering,International,Kilter Board,V8,1,no,crimp,no,50
+11/16/22,Bouldering,International,Kilter Board,V4,1,yes,crimp,no,50
+11/16/22,Bouldering,International,Kilter Board,V9,1,no,jugs,no,50
+11/16/22,Bouldering,International,Kilter Board,V8,1,no,crimp,no,40
+11/16/22,Bouldering,International,Kilter Board,7B+,1,no,sloper/gaston,no,40
+11/16/22,Bouldering,International,Kilter Board,V10,1,no,gaston/crimp,no,40
+11/16/22,Bouldering,International,Moon Board,V5,1,yes,edge,yes,40
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,straight
+11/17/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,two finger pocket,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,straight
+11/18/22,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,crimp/dyno,no,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/gaston,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,two finger pocket,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V11,1,no,sloper/pinch,no,overhang
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper/crimp,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/pinch,yes,overhang
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/gaston,yes,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/crimp,no,overhang
+11/21/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/crimp,yes,overhang
+11/21/22,Bouldering,International,Kilter Board,V10,2,no,pinch,no,40
+11/21/22,Bouldering,International,Kilter Board,V9,1,no,pinch,no,40
+11/21/22,Bouldering,International,Kilter Board,6B+,1,yes,pinch,no,40
+11/21/22,Bouldering,International,Kilter Board,V9,1,no,pinch/crimp,no,40
+11/21/22,Bouldering,International,Kilter Board,7B+,3,no,sloper,no,50
+11/21/22,Bouldering,International,Kilter Board,V10,1,no,crimp,no,50
+11/21/22,Bouldering,International,Kilter Board,V9,2,no,jugs/dyno,no,50
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jug,nyes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,slab
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/crimp,yes,overhang
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp,yes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,straight
+11/22/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno,yes,straight
+11/22/22,Bouldering,International,Kilter Board,V5,1,yes,pinch,no,50
+11/22/22,Bouldering,International,Kilter Board,V4,1,yes,edge,no,35
+11/22/22,Bouldering,International,Kilter Board,V7,1,yes,crimp/cross,no,35
+11/22/22,Bouldering,International,Kilter Board,V8,1,no,dyno,no,35
+11/22/22,Bouldering,International,Kilter Board,V4,1,yes,cross,no,35
+11/22/22,Bouldering,International,Kilter Board,7B+,2,yes,pinch/crimp,no,40
+11/22/22,Bouldering,International,Kilter Board,V10,1,no,pinch,no,40
+11/22/22,Bouldering,International,Kilter Board,V9,4,no,edge,no,50
+11/22/22,Bouldering,International,Kilter Board,V9,2,no,pinch/dyno,no,50
+11/22/22,Bouldering,International,Kilter Board,V10,1,no,crimp,no,50
+11/22/22,Bouldering,International,Moon Board,V5,1,yes,pinch,no,40
+11/22/22,Bouldering,International,Moon Board,V4,1,yes,pinch,no,40
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,overhang
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V6,1,no,pinch,no,overhang
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch/mantle,no,straight
+11/23/22,Bouldering,International,Kilter Board,V9,1,no,dyno,no,50
+11/23/22,Bouldering,International,Kilter Board,8B,1,no,sloper,no,40
+11/23/22,Bouldering,International,Kilter Board,V5,1,yes,pinch,no,10
+11/23/22,Bouldering,International,Kilter Board,V7,1,no,crimp,no,10
+11/23/22,Bouldering,International,Kilter Board,V7,1,no,crimp,no,10
+11/23/22,Bouldering,International,Kilter Board,V5,1,yes,edge,no,10
+11/23/22,Bouldering,International,Kilter Board,V10,3,no,crimp,no,50
+11/23/22,Bouldering,International,Kilter Board,7B+,1,no,sloper,no,50
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V10,1,no,crimp,no,overhang
+11/23/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,overhang
+11/23/22,Bouldering,International,Moon Board,V5,1,no,pinch,no,40
+11/23/22,Bouldering,International,Moon Board,V5,3,no,pinch,no,40
+11/23/22,Bouldering,International,Moon Board,V5,2,no,crimp,no,40
+11/25/22,Lead,United States,Goat Climbing Gym,5.9,1,yes,edge,no,straight
+11/25/22,Lead,United States,Goat Climbing Gym,5.13a,1,no,gaston/sloper,no,straight
+11/25/22,Lead,United States,Goat Climbing Gym,5.11c,1,no,crimp,no,overhang
+11/25/22,Lead,United States,Goat Climbing Gym,5.14b,1,no,sloper,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V4,1,yes,sloper/pinch,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V6,1,no,edge,no,straight
+11/25/22,Bouldering,United States,Goat Climbing Gym,V9,1,no,crimp,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V6,2,no,crimp,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V5,1,no,dyno,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V7,3,no,sloper,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V8,2,no,sloper,no,straight
+11/25/22,Bouldering,United States,Goat Climbing Gym,V3,1,yes,sloper,no,slab
+11/25/22,Bouldering,United States,Goat Climbing Gym,V6,1,yes,pinch,no,overhang
+11/25/22,Bouldering,United States,Goat Climbing Gym,V4,2,no,sloper,no,slab
+11/25/22,Bouldering,United States,Goat Climbing Gym,V5,1,yes,sloper,no,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,dyno/crimp,no,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno/crimp,yes,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V6,5,yes,edge,no,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno,no,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno,yes,overhang
+11/25/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,pinch,no,overhang
+11/25/22,Bouldering,International,Kilter Board,7B ,1,no,pinch,no,40
+11/25/22,Bouldering,International,Kilter Board,V7,1,yes,sloper,no,40
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,straight
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,edge,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno/crimp,yes,straight
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,dyno,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,straight
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V9,10,no,two finger pocket/sloper,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V8,10,no,crimp/dyno,no,overhang
+11/28/22,Bouldering,United States,Gravity Vault Montclair,V9,3,no,sloper,no,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno/crimp,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,straight
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,straight
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/dyno,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,crimp/dyno,no,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V9,3,no,two finger pocket/sloper,no,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V9,1,no,sloper,no,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,overhang
+11/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno,yes,overhang
+11/29/22,Bouldering,International,Kilter Board,7B,1,no,rose move,no,40
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,no,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V3,2,yes,sloper,yes,straight
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,straight
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V9,7,yes,two finger pocket/sloper,no,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+12/1/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+12/1/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,no,40
+12/1/22,Bouldering,International,Kilter Board,V0,1,yes,jugs,no,40
+12/1/22,Bouldering,International,Kilter Board,V1,1,yes,jugs,no,40
+12/1/22,Bouldering,International,Kilter Board,V10,1,no,pinch,no,50
+12/1/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,50
+12/2/22,Bouldering,International,Kilter Board,7B,1,yes,pinch,no,40
+12/2/22,Bouldering,International,Kilter Board,7A,1,no,dyno,no,40
+12/2/22,Bouldering,International,Kilter Board,7B,1,no,pinch,no,40
+12/2/22,Bouldering,International,Kilter Board,7B,1,no,pinch,no,40
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,overhang
+12/2/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,slab
+12/5/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+12/5/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+12/5/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+12/5/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+12/5/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,overhang
+12/5/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+12/5/22,Bouldering,International,Kilter Board,V7,1,yes,edge,no,50
+12/5/22,Bouldering,International,Kilter Board,V7,1,yes,crimp,no,50
+12/5/22,Bouldering,International,Kilter Board,7B+,2,no,gaston,no,50
+12/5/22,Bouldering,International,Kilter Board,V9,4,no,pinch/crimp,no,50
+12/5/22,Bouldering,International,Kilter Board,V7,1,no,sloper,no,50
+12/5/22,Bouldering,International,Kilter Board,7B,1,no,gaston,no,50
+12/5/22,Bouldering,International,Kilter Board,V10,1,no,gaston,no,50
+12/5/22,Bouldering,International,Kilter Board,V10,1,no,crimp,no,40
+12/5/22,Bouldering,International,Kilter Board,7B,1,no,crimp,no,40
+12/5/22,Bouldering,International,Kilter Board,V5,1,yes,jugs/dyno,no,40
+12/5/22,Bouldering,International,Kilter Board,V6,1,yes,crimp,no,40
+12/5/22,Bouldering,International,Kilter Board,7B+,1,no,crimp/sloper,no,40
+12/5/22,Bouldering,International,Kilter Board,V9,1,no,crimp/sloper,no,40
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,overhang
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V9,1,no,two finger pocket/sloper,no,overhang
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+12/6/22,Bouldering,United States,Gravity Vault Montclair,V9,2,no,sloper/pinch,no,overhang
+12/6/22,Bouldering,International,Kilter Board,7B+,1,no,edge,no,50
+12/6/22,Bouldering,International,Kilter Board,V9,1,no,pinch,no,50
+12/6/22,Bouldering,International,Kilter Board,V9,1,no,dyno/crimp,no,50
+12/6/22,Bouldering,International,Kilter Board,V9,1,no,sloper,no,40
+12/6/22,Bouldering,International,Kilter Board,7B,1,no,gaston,no,40
+12/6/22,Bouldering,International,Kilter Board,7A+,1,no,sloper,no,40
+12/6/22,Bouldering,International,Kilter Board,7B+,1,no,pinch,no,50
+12/8/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,run-and-jump,no,slab
+12/8/22,Bouldering,United States,Gravity Vault Montclair,V8,1,no,edge,no,overhang
+12/8/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp,yes,overhang
+12/8/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+12/8/22,Bouldering,United States,Gravity Vault Montclair,V5,4,no,balance,no,straight
+12/8/22,Bouldering,International,Kilter Board,V1,1,yes,sloper,no,40
+12/8/22,Bouldering,International,Kilter Board,V2,1,yes,jugs,no,40
+12/8/22,Bouldering,International,Kilter Board,V4,1,yes,pinch,no,40
+12/8/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,40
+12/8/22,Bouldering,International,Kilter Board,7B,1,no,pinch,no,50
+12/8/22,Bouldering,International,Kilter Board,V2,1,yes,jugs,no,50
+12/8/22,Bouldering,International,Kilter Board,V6,1,no,pinch,no,50
+12/8/22,Bouldering,International,Kilter Board,7B,1,no,crimp/pinch,no,50
+12/8/22,Bouldering,International,Kilter Board,V10,2,no,crimp/cross,no,50
+12/8/22,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,50
+12/8/22,Bouldering,International,Moon Board,6C+,1,no,pinch,no,40
+12/8/22,Bouldering,International,Moon Board,7A+,1,no,pinch,no,40
+12/8/22,Bouldering,International,Moon Board,7B,1,no,crimp,no,40
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch/sloper,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,slab
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,overhang
+12/19/22,Bouldering,United States,Gravity Vault Montclair,V7,1,no,pinch/sloper,no,straight
+12/19/22,Bouldering,International,Kilter Board,6B+,1,yes,jugs,no,40
+12/19/22,Bouldering,International,Kilter Board,7C+,2,no,pinch/sloper,no,40
+12/19/22,Bouldering,International,Kilter Board,7A+,1,yes,pinch,no,40
+12/19/22,Bouldering,International,Kilter Board,7A,2,yes,pinch/crimp,no,40
+12/19/22,Bouldering,International,Kilter Board,7B,3,no,crimp,no,40
+12/19/22,Bouldering,International,Kilter Board,7B,1,no,dyno,no,40
+12/19/22,Bouldering,International,Kilter Board,7B+,2,no,pinch,no,40
+12/19/22,Bouldering,International,Kilter Board,V2,1,yes,jugs,yes,40
+12/19/22,Bouldering,International,Kilter Board,7B,1,no,edge/undercling,no,40
+12/19/22,Bouldering,International,Kilter Board,V2,1,yes,jugs,yes,40
+12/19/22,Bouldering,International,Kilter Board,7B,1,no,sloper,no,40
+12/19/22,Bouldering,International,Kilter Board,7A+,1,no,dyno,no,40
+12/19/22,Bouldering,International,Kilter Board,6C ,1,yes,crimp,no,40
+12/19/22,Bouldering,International,Kilter Board,7B+,3,no,pinch,no,40
+12/19/22,Bouldering,International,Kilter Board,7B,1,yes,edge,no,40
+12/19/22,Bouldering,International,Kilter Board,7B,1,yes,edge,yes,40
+12/19/22,Bouldering,International,Kilter Board,7A+,2,yes,edge,no,40
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jug,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,pinch,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,hand-jam,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,no,straight
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V3,1,yes,jugs,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V3,1,yes,edge,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V1,1,yes,jugs,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V9,1,no,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V7,1,yes,crimp,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V7,2,no,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V6,1,no,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V8,1,no,crimp,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V6,1,no,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V3,1,yes,jugs,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V7,1,no,pinch/sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V6,2,no,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V12,1,no,crimp,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V6,1,yes,sloper/mantle,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V4,1,yes,sloper,no,overhang
+12/20/22,Bouldering,United States,Gravity Vault Hoboken,V2,1,yes,jugs,no,overhang
+12/20/22,Lead,United States,Gravity Vault Hoboken,5.13a,1,yes,crimp,no,overhang
+12/20/22,Lead,United States,Gravity Vault Hoboken,5.13b,1,no,sloper,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V8,4,no,crimp/dyno,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,no,straight
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,straight
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,straight
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V8,4,yes,sloper/compression,no,overhang
+12/21/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,sloper/compression,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jug,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,slab
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,slab
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,slab
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,no,pinch,no,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,straight
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/dyno,yes,overhang
+12/26/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,overhang
+12/26/22,Bouldering,International,Kilter Board,V9,1,no,dyno/crimp,no,50
+12/26/22,Bouldering,International,Kilter Board,V11,1,no,crimp/pinch,no,50
+12/26/22,Bouldering,International,Kilter Board,V9,1,no,crimp,no,50
+12/27/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+12/27/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+12/27/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+12/27/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,overhang
+12/27/22,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,sloper,yes,straight
+12/27/22,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,crimp,yes,straight
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jug,no,straight
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V8,3,yes,coordination,no,straight
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch/sloper,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch/sloper,yes,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch/sloper,yes,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,jugs/dyno,no,overhang
+12/29/22,Bouldering,United States,Gravity Vault Montclair,V9,4,no,crimp,no,overhang
+12/29/22,Bouldering,International,Kilter Board,7B+,2,yes,edge,no,60
+12/29/22,Bouldering,International,Kilter Board,7C ,1,no,crimp,no,60
+12/29/22,Bouldering,International,Kilter Board,7C,1,no,crimp,no,40
+12/29/22,Bouldering,International,Kilter Board,7C+,1,no,sloper/gaston,no,40
+12/29/22,Bouldering,International,Kilter Board,7C,1,no,dyno,no,40
+12/29/22,Bouldering,International,Kilter Board,7C+,1,no,crimp,no,40
+12/29/22,Bouldering,International,Kilter Board,7B+,1,no,crimp,no,40
+12/29/22,Bouldering,International,Kilter Board,7B+,1,no,pinch,no,40
+12/29/22,Lead,United States,Gravity Vault Chatham,5.11c,1,yes,crimp,no,straight
+12/29/22,Lead,United States,Gravity Vault Chatham,5.13a,1,yes,sloper,no,straight
+12/29/22,Lead,United States,Gravity Vault Chatham,5.12a,1,yes,pinch,no,straight
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,sloper,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,straight
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,jug,yes,overhang
+12/30/22,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+12/30/22,Bouldering,International,Kilter Board,8A,1,no,crimp,no,70
+12/30/22,Bouldering,International,Kilter Board,7C,2,yes,crimp,no,55
+12/30/22,Bouldering,International,Kilter Board,6B+,1,yes,dyno,no,30
+12/30/22,Bouldering,International,Kilter Board,8A,3,no,dyno/crimp,no,65
+12/30/22,Bouldering,International,Kilter Board,6C ,1,yes,dyno,yes,30
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,yes,straight
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,yes,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,straight
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V9,1,no,two finger pocket/sloper,no,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch/sloper,yes,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,crimp,yes,overhang
+1/2/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,coordination/compression,yes,straight
+1/2/23,Bouldering,International,Kilter Board,V2,1,yes,jugs,no,65
+1/2/23,Bouldering,International,Kilter Board,V2,1,yes,jugs,no,30
+1/2/23,Bouldering,International,Kilter Board,V5,1,yes,jugs,no,30
+1/2/23,Bouldering,International,Kilter Board,7C+,1,no,dyno,no,40
+1/3/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,dyno,no,overhang
+1/3/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+1/3/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,overhang
+1/3/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,no,overhang
+1/3/23,Bouldering,United States,Gravity Vault Montclair,V9,2,no,crimp,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V3,1,yes,sloper,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V2,1,yes,sloper/pinch,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V5,1,yes,sloper,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V2,1,yes,jugs,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V5,1,no,sloper,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V4,1,yes,sloper,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V2,1,yes,sloper,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V6,1,yes,sloper,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V6,2,no,edge,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V3,1,yes,jugs,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V7,1,yes,sloper,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V7,1,yes,sloper,yes,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V5,1,yes,run-and-jump,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V5,1,yes,run-and-jump,yes,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V7,2,no,pinch,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V3,1,yes,mantle,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V9,1,no,crimp/sloper,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V5,1,yes,sloper,no,overhang
+1/3/23,Bouldering,United States,Method Climbing Gym,V4,1,yes,sloper,no,straight
+1/3/23,Bouldering,United States,Method Climbing Gym,V3,1,yes,jugs,no,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,no,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,slab
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,straight
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,coordination,yes,straight
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,jugs,yes,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno,no,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno,yes,overhang
+1/4/23,Bouldering,United States,Gravity Vault Montclair,V9,3,no,crimp,no,overhang
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,yes,straight
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,yes,edge
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,coordination,yes,straight
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno/sloper,yes,overhang
+1/5/23,Bouldering,United States,Gravity Vault Montclair,V9,2,no,crimp,no,overhang
+1/5/23,Bouldering,International,Kilter Board,4C,1,yes,jugs,no,25
+1/5/23,Bouldering,International,Kilter Board,7A+,1,yes,pinch,no,40
+1/5/23,Bouldering,International,Kilter Board,6B+,1,yes,crimp,no,40
+1/5/23,Bouldering,International,Kilter Board,8A,1,no,crimp/pinch,no,50
+1/5/23,Bouldering,International,Kilter Board,7B+,1,yes,dyno,no,50
+1/5/23,Bouldering,International,Kilter Board,6C ,1,yes,edge,no,50
+1/5/23,Bouldering,International,Kilter Board,7A+,1,yes,jugs,no,50
+1/5/23,Bouldering,International,Kilter Board,7C+,1,yes,dyno,no,65
+1/5/23,Bouldering,International,Kilter Board,8A,1,yes,dyno,no,70
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper ,yes,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,slab
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,coordination,yes,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,dyno,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,edge,yes,straight
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,slab
+1/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/dyno,yes,overhang
+1/8/23,Bouldering,International,Kilter Board,V11,1,no,crimp,no,50
+1/8/23,Bouldering,International,Kilter Board,V11,1,no,dyno,no,40
+1/8/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch,no,50
+1/8/23,Bouldering,International,Kilter Board,7A ,1,yes,pinch,no,50
+1/8/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,50
+1/8/23,Bouldering,International,Kilter Board,7A,1,yes,gaston,no,50
+1/8/23,Bouldering,International,Kilter Board,6B+,1,yes,pinch,no,50
+1/9/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+1/9/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,yes,overhang
+1/9/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+1/9/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+1/9/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+1/9/23,Bouldering,International,Kilter Board,7B+,2,no,edge,no,50
+1/9/23,Bouldering,International,Kilter Board,7C,3,no,pinch,no,40
+1/9/23,Bouldering,International,Kilter Board,7B+,2,no,dyno,no,60
+1/9/23,Bouldering,International,Kilter Board,7C+,2,no,dyno,no,70
+1/9/23,Bouldering,International,Kilter Board,7A ,1,yes,edge,no,50
+1/9/23,Bouldering,International,Kilter Board,7A+,1,no,edge,no,50
+1/9/23,Bouldering,International,Kilter Board,7A+,1,no,edge,no,50
+1/9/23,Bouldering,International,Kilter Board,7A+,1,no,crimp,no,50
+1/9/23,Bouldering,International,Kilter Board,7A+,1,no,dyno,no,50
+1/9/23,Bouldering,International,Kilter Board,7A+,1,yes,crimp,no,50
+1/9/23,Bouldering,International,Kilter Board,7C,1,no,pinch,no,50
+1/9/23,Bouldering,International,Kilter Board,7C+,1,no,pinch,no,55
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,no,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,yes,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,slab
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,sloper
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,coordination,yes,straight
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs/dyno,no,overhang
+1/10/23,Bouldering,United States,Gravity Vault Montclair,V10,1,yes,crimp,no,overhang
+1/10/23,Bouldering,International,Kilter Board,V2,1,yes,crimp,no,20
+1/10/23,Bouldering,International,Kilter Board,V3,1,yes,jugs,no,20
+1/10/23,Bouldering,International,Kilter Board,6B+,1,yes,crimp/pinch,no,30
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,mantle,no,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,overhang
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,overhang
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,sloper,no,overhang
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,edge,no,overhang
+1/17/23,Bouldering,United States,Gravity Vault Montclair,V7,3,no,crimp/sloper,no,overhang
+1/17/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch,no,30
+1/17/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/pinch,no,30
+1/17/23,Bouldering,International,Kilter Board,7B ,1,no,dyno/edge,no,40
+1/17/23,Bouldering,International,Kilter Board,7C,1,no,crimp/dyno,no,40
+1/17/23,Bouldering,International,Kilter Board,7C+,1,no,dyno/edge,no,40
+1/17/23,Bouldering,International,Kilter Board,7C+,1,no,crimp,no,50
+1/17/23,Bouldering,International,Kilter Board,6A,1,yes,jugs,no,50
+1/17/23,Bouldering,International,Kilter Board,7C,1,no,dyno,no,50
+1/17/23,Bouldering,International,Kilter Board,7B,1,no,dyno,no,50
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,sloper,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,dyno,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,jugs,no,overhang
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/mantle,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/mantle,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+1/30/23,Bouldering,United States,Gravity Vault Montclair,V9,6,yes,sloper/compression,no,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,crimp/gaston,no,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,pinch/compression,no,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,yes,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/compression,yes,straight
+1/31/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,compression,yes,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno,no,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,two finger pocket ,no,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper/balance,no,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+2/1/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+2/1/23,Bouldering,International,Kilter Board,V6,1,yes,edge,no,50
+2/1/23,Bouldering,International,Kilter Board,V6,1,no,jug/dyno,no,50
+2/1/23,Bouldering,International,Kilter Board,7A+,1,no,dyno,no,50
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,jugs,no,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,gaston,no,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V8,5,yes,crimp/gaston,no,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,crimp/gaston,yes,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,sloper/crimp,no,overhang
+2/3/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,no,overhang
+2/3/23,Bouldering,International,Kilter Board,7A,1,yes,pinch/crimp,no,40
+2/3/23,Bouldering,International,Kilter Board,6C ,1,yes,pinch,no,25
+2/3/23,Bouldering,International,Kilter Board,7C,1,no,sloper/mantle,no,25
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,edge,no,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V5,3,yes,stem,no,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,stem/sloper,no,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,stem/sloper,yes,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,mantle/sloper,no,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,mantle/sloper,yes,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,no,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+2/7/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,edge,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V9,3,no,crimp/sloper,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/dyno,no,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V8,1,no,sloper/crimp,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper ,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V6,1,no,gaston,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V8,2,no,sloper/mantle,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,yes,straight
+2/23/23,Bouldering,United States,Gravity Vault Montclair,V8,3,no,sloper,no,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/crimp,no,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,no,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,sloper,no,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp/dyno,no,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/dyno,yes,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V9,1,yes,crimp/sloper,no,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V7,2,no,sloper,no,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/26/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,yes,overhang
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V0,1,yes,jugs,no,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/pinch,no,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno/sloper,no,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno/sloper,yes,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,no,straight
+2/28/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pockets,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,slab
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/balance,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,no,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/mantle,yes,slab
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V8,1,no,crimp/sloper,no,overhang
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/pinch,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V8,1,no,crimp,no,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/dyno,yes,straight
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,overhang
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/sloper,yes,overhang
+3/1/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,straight
+3/1/23,Bouldering,International,Moon Board,7A ,1,no,crimp,no,40
+3/1/23,Bouldering,International,Moon Board,7A ,1,no,pinch,no,40
+3/1/23,Bouldering,International,Moon Board,7A ,2,no,pinch,no,40
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,no,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,no,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V7,7,yes,pinch/crimp,no,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+3/2/23,Bouldering,United States,Gravity Vault Montclair,V6,3,no,sloper,no,straight
+3/2/23,Bouldering,International,Moon Board,6A+,1,yes,crimp/pinch,no,40
+3/2/23,Bouldering,International,Moon Board,6A+,1,yes,sloper,no,40
+3/2/23,Bouldering,International,Moon Board,6A+,1,yes,pinch,no,40
+3/2/23,Bouldering,International,Moon Board,6A+,1,yes,pinch,no,40
+3/2/23,Bouldering,International,Moon Board,7B,1,no,crimp,no,40
+3/2/23,Bouldering,International,Moon Board,6A+,1,yes,edge,no,40
+3/2/23,Bouldering,International,Moon Board,7A+,3,no,pinch/dyno,no,40
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,yes,overhang
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,overhang
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp/balance,yes,straight
+3/4/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,sloper,no,overhang
+3/4/23,Bouldering,International,Moon Board,6B+,1,yes,pinch/crimp,no,40
+3/4/23,Bouldering,International,Moon Board,6C+,1,no,pinch/crimp,no,40
+3/4/23,Bouldering,International,Kilter Board,6A ,1,yes,jugs,no,55
+3/4/23,Bouldering,International,Kilter Board,6B+,1,yes,jugs,no,55
+3/4/23,Bouldering,International,Kilter Board,7A+,1,no,pinch,no,55
+3/4/23,Bouldering,International,Kilter Board,6C ,1,yes,edge,no,55
+3/4/23,Bouldering,International,Kilter Board,7C+,1,no,crimp,no,55
+3/4/23,Bouldering,International,Kilter Board,7C ,1,no,edge,no,55
+3/4/23,Bouldering,International,Kilter Board,7A+,1,yes,crimp,no,40
+3/4/23,Bouldering,International,Kilter Board,7C+,1,yes,pinch,no,40
+3/4/23,Bouldering,International,Kilter Board,6B ,1,yes,jugs,no,40
+3/4/23,Bouldering,International,Kilter Board,6B+,1,yes,jugs/cross,no,40
+3/4/23,Bouldering,International,Kilter Board,7A+,1,no,jugs,no,50
+3/4/23,Bouldering,International,Kilter Board,7A ,1,yes,crimp,no,50
+3/4/23,Bouldering,International,Kilter Board,7A+,1,no,crimp,no,50
+3/4/23,Bouldering,International,Kilter Board,7A ,1,yes,jugs/dyno,no,50
+3/4/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,50
+3/4/23,Bouldering,International,Kilter Board,7A+,1,no,crimp,no,50
+3/4/23,Bouldering,International,Kilter Board,7A+,1,no,sloper,no,50
+3/4/23,Bouldering,International,Kilter Board,7B,1,no,dyno/edge,no,50
+3/6/23,Bouldering,United States,Gravity Vault Montclair,V6,1,no,mantle,no,straight
+3/6/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+3/6/23,Bouldering,United States,Gravity Vault Montclair,V8,1,no,sloper/crimp,no,overhang
+3/6/23,Bouldering,United States,Gravity Vault Montclair,V7,1,no,dyno/crimp,no,overhang
+3/6/23,Bouldering,United States,Gravity Vault Montclair,V6,1,no,gaston,no,overhang
+3/6/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,overhang
+3/6/23,Bouldering,International,Moon Board,7A,1,yes,dyno,no,40
+3/6/23,Bouldering,International,Kilter Board,6B+,1,yes,sloper,no,40
+3/6/23,Bouldering,International,Kilter Board,6B ,1,yes,pinch,no,40
+3/6/23,Bouldering,International,Kilter Board,6C,1,yes,sloper,no,40
+3/6/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/6/23,Bouldering,International,Kilter Board,6B,1,yes,pinch,no,40
+3/6/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch,no,40
+3/6/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/6/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/6/23,Bouldering,International,Kilter Board,6C+,1,yes,jugs,no,40
+3/6/23,Bouldering,International,Kilter Board,6C,1,yes,pinch/crimp,no,40
+3/6/23,Bouldering,International,Kilter Board,7A+,1,yes,dyno/crimp,no,40
+3/6/23,Bouldering,International,Kilter Board,7A+,2,yes,edge/dyno,no,40
+3/6/23,Bouldering,International,Kilter Board,7C,2,yes,dyno,no,40
+3/6/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/dyno,no,50
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,straight
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,straight
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/pinch,yes,overhang
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,yes,straight
+3/8/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/dyno,yes,straight
+3/8/23,Bouldering,International,Kilter Board,6C,1,yes,gaston,no,40
+3/8/23,Bouldering,International,Kilter Board,7C,4,yes,crimp/gaston,no,40
+3/8/23,Bouldering,International,Kilter Board,7C,1,no,crimp/sloper,no,40
+3/8/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,50
+3/8/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch,no,50
+3/8/23,Bouldering,International,Kilter Board,7C,1,no,pinch/crimp,no,40
+3/8/23,Bouldering,International,Kilter Board,7C+,3,no,crimp/gaston,no,50
+3/9/23,Bouldering,International,Kilter Board,6B,1,yes,jugss,no,50
+3/9/23,Bouldering,International,Kilter Board,6C,1,yes,jugs,no,50
+3/9/23,Bouldering,International,Kilter Board,6B,1,yes,jugs,no,50
+3/9/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/gaston,no,50
+3/9/23,Bouldering,International,Kilter Board,7A,1,yes,edge,no,50
+3/9/23,Bouldering,International,Kilter Board,7B,5,no,crimp/dyno,no,50
+3/9/23,Bouldering,International,Kilter Board,7C,3,no,crimp/gaston,no,50
+3/9/23,Bouldering,International,Kilter Board,7C,2,no,crimp/dyno,no,50
+3/9/23,Bouldering,International,Kilter Board,5B,1,yes,sloper,no,40
+3/9/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,yes,40
+3/9/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/pinch,no,40
+3/9/23,Bouldering,International,Kilter Board,6C,1,yes,crimp/sloper,yes,50
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,crimp,yes,straight
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/edge,no,straight
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,overhang
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+3/11/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,crimp,no,overhang
+3/11/23,Bouldering,International,Kilter Board,6B,1,yes,pinch,no,40
+3/11/23,Bouldering,International,Kilter Board,6C,1,yes,pinch/rose,no,40
+3/11/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch/crimp,no,40
+3/11/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/11/23,Bouldering,International,Kilter Board,7A+,1,yes,crimp/pinch,no,40
+3/11/23,Bouldering,International,Kilter Board,6C,1,no,sloper,no,40
+3/11/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/rose,no,40
+3/11/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch,no,40
+3/11/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+3/11/23,Bouldering,International,Kilter Board,7A,2,yes,dyno/jugs,no,40
+3/11/23,Bouldering,International,Kilter Board,7B,1,no,dyno/crimp,no,50
+3/11/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,50
+3/11/23,Bouldering,International,Kilter Board,7A+,1,yes,gaston,no,40
+3/11/23,Bouldering,International,Kilter Board,7A+,1,no,gaston,no,40
+3/11/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/11/23,Bouldering,International,Kilter Board,6C,1,yes,pinch/crimp,no,40
+3/11/23,Bouldering,International,Kilter Board,7B,1,no,crimp/sloper,no,60
+3/11/23,Bouldering,International,Kilter Board,6B+,1,yes,crimp,yes,40
+3/11/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/gaston,no,40
+3/11/23,Bouldering,International,Kilter Board,6C,1,yes,jugs,no,40
+3/11/23,Bouldering,International,Kilter Board,6B,1,yes,gaston,no,40
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/crimp,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno/gaston,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,no,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno/sloper,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,mantle/dyno,yes,straight
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V9,1,no,compression/crimp,no,overhang
+3/13/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,pinch/sloper,yes,overhang
+3/13/23,Bouldering,International,Kilter Board,7C,1,no,sloper,no,50
+3/13/23,Bouldering,International,Kilter Board,7C,1,no,edge,no,50
+3/13/23,Bouldering,International,Kilter Board,7C,1,no,pinch/edge,no,50
+3/13/23,Bouldering,International,Kilter Board,7C+,2,no,crimp/dyno,no,50
+3/13/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/pinch,no,50
+3/13/23,Bouldering,International,Kilter Board,7B,1,no,crimp,no,50
+3/13/23,Bouldering,International,Kilter Board,7A+,1,no,crimp/dyno,no,50
+3/13/23,Bouldering,International,Kilter Board,7A+,1,no,crimp,no,50
+3/13/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,50
+3/13/23,Bouldering,International,Kilter Board,7A,1,yes,pinch/crimp,no,50
+3/13/23,Bouldering,International,Kilter Board,7A+,1,no,pinch,no,50
+3/13/23,Bouldering,International,Kilter Board,7A+,1,no,edge,no,50
+3/13/23,Bouldering,International,Kilter Board,7C+,1,no,pinch/crimp,no,40
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,slab
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,slab
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/gaston,no,straight
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp,no,slab
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,sloper/mantle,no,slab
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/mantle,yes,slab
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,edge,no,straight
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,straight
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,straight
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,yes,straight
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,straight
+3/14/23,Bouldering,United States,Gravity Vault Montclair,V7,1,no,sloper,no,straight
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,overhang
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,mantle,no,overhang
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,no,overhang
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/sloper,no,overhang
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/sloper,yes,overhang
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/gaston,no,straight
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/mantle,yes,straight
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/sloper,yes,straight
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/gaston,no,straight
+3/15/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/mantle,yes,straight
+3/15/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,6C,1,yes,crimp/edge,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,yes,pinch/dyno,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,yes,edge,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,yes,sloper/crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,6C,1,no,crimp/undercling,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,no,gaston/crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,7A+,1,yes,rose,no,40
+3/15/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,7B,1,no,crimp/gaston,no,40
+3/15/23,Bouldering,International,Kilter Board,7A+,1,yes,sloper/pinch,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,yes,sloper/crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+3/15/23,Bouldering,International,Kilter Board,7B,1,no,pinch,no,40
+3/15/23,Bouldering,International,Kilter Board,6C,1,yes,jugs,no,40
+3/15/23,Bouldering,International,Kilter Board,6C+,1,yes,undercling,no,40
+3/15/23,Bouldering,International,Kilter Board,6C,1,yes,pinch,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,yes,gaston,no,40
+3/15/23,Bouldering,International,Kilter Board,6C+,1,yes,jugs,no,40
+3/15/23,Bouldering,International,Kilter Board,7A,1,no,edge,no,40
+3/15/23,Bouldering,International,Kilter Board,7B+,1,yes,crimp/cross,no,50
+3/15/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/gaston,no,50
+3/16/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+3/16/23,Bouldering,International,Kilter Board,6B,1,yes,jugs,no,40
+3/16/23,Bouldering,International,Kilter Board,6C,1,yes,pinch,no,40
+3/16/23,Bouldering,International,Kilter Board,7A,2,yes,crimp/sloper,yes,40
+3/16/23,Bouldering,International,Kilter Board,6C,1,yes,crimp/gaston,no,40
+3/16/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,40
+3/16/23,Bouldering,International,Kilter Board,6C,1,yes,pinch,no,40
+3/16/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+3/16/23,Bouldering,International,Kilter Board,7A+,1,yes,crimp,no,40
+3/16/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,40
+3/16/23,Bouldering,International,Kilter Board,7B,1,no,crimp,no,40
+3/16/23,Bouldering,International,Kilter Board,7A+,1,yes,jugs,no,40
+3/16/23,Bouldering,International,Kilter Board,7C,1,no,crimp,no,55
+3/16/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/sloper,no,55
+3/16/23,Bouldering,International,Kilter Board,7C+,3,no,crimp/gaston,no,50
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,jugs,no,straight
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,pinch,no,straight
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper/gaston,no,straight
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/gaston,no,overhang
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp/gaston,no,overhang
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,overhang
+3/17/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp/gaston,no,overhang
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,pinch/crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,7A+,1,yes,crimp/gaston,no,40
+3/17/23,Bouldering,International,Kilter Board,7A ,1,no,edge/crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,7A+,2,no,pinch/dyno,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,gaston,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,jugs,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,gaston,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,gaston/crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,7B,1,no,crimp/gaston,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,edge,no,40
+3/17/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,no,pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,pinch/sloper,no,40
+3/17/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/gaston,no,50
+3/17/23,Bouldering,International,Kilter Board,7A,1,no,pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,no,jugs,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,crimp/pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,no,crimp/undercling,no,40
+3/17/23,Bouldering,International,Kilter Board,6C+,1,yes,edge,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,2,no,pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/undercling,no,40
+3/17/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,7A+,1,no,pinch,no,40
+3/17/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/cross,no,40
+3/17/23,Bouldering,International,Kilter Board,7A+,2,no,gaston/sloper,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,no,crimp/cross,no,40
+3/17/23,Bouldering,International,Kilter Board,7A,1,no,gaston,no,40
+3/17/23,Bouldering,International,Kilter Board,7A+,1,no,crimp,no,40
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,slab
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch,yes,overhang
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper,yes,straight
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,crimp/sloper,yes,slab
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp/sloper,yes,slab
+3/20/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,jugs,yes,overhang
+3/20/23,Bouldering,International,Moon Board,7A,1,no,pinch,no,30
+3/20/23,Bouldering,International,Moon Board,6C+,1,no,pinch,no,40
+3/20/23,Bouldering,International,Kilter Board,6B,1,yes,pinch,no,30
+3/20/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,30
+3/20/23,Bouldering,International,Kilter Board,7A,1,yes,gaston,no,30
+3/20/23,Bouldering,International,Kilter Board,6C,1,yes,edge,no,30
+3/20/23,Bouldering,International,Kilter Board,7B,1,no,edge/pinch,no,30
+3/20/23,Bouldering,International,Kilter Board,6C+,1,yes,pinch/cross,no,30
+3/20/23,Bouldering,International,Kilter Board,7A,1,yes,edge/undercling,no,30
+3/20/23,Bouldering,International,Kilter Board,7A+,1,no,jugs,no,30
+3/20/23,Bouldering,International,Kilter Board,7C,1,no,dyno,no,30
+3/20/23,Bouldering,International,Kilter Board,6C,1,yes,pinch,no,40
+3/20/23,Bouldering,International,Kilter Board,7A,1,yes,gaston,no,40
+3/20/23,Bouldering,International,Kilter Board,7A,1,yes,undercling,no,50
+3/20/23,Bouldering,International,Kilter Board,6C,1,yes,jugs,no,50
+3/20/23,Bouldering,International,Kilter Board,7C+,2,no,crimp/gaston,no,50
+3/20/23,Bouldering,International,Kilter Board,6C,1,yes,jugs,no,40
+3/20/23,Bouldering,International,Kilter Board,6B+,1,yes,crimp,yes,40
+3/20/23,Bouldering,International,Kilter Board,7A+,1,no,pinch/cross,no,40
+3/20/23,Bouldering,International,Kilter Board,7B+,1,no,pinch,no,40
+3/20/23,Bouldering,International,Kilter Board,7B+,1,no,sloper/crimp,no,40
+3/22/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp/gaston,no,straight
+3/22/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp/gaston,yes,straight
+3/22/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pinch,no,overhang
+3/22/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,overhang
+3/22/23,Bouldering,United States,Gravity Vault Montclair,V7,15,no,sloper/crimp,no,overhang
+3/22/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/gaston,no,50
+3/23/23,Bouldering,International,Kilter Board,6B,1,yes,crimp,no,30
+3/23/23,Bouldering,International,Kilter Board,6C,1,yes,edge,no,30
+3/23/23,Bouldering,International,Kilter Board,7A,1,yes,pinch/edge,no,30
+3/23/23,Bouldering,International,Kilter Board,7A,1,yes,pinch/sloper,no,30
+3/23/23,Bouldering,International,Kilter Board,7C,1,yes,pinch,no,35
+3/23/23,Bouldering,International,Kilter Board,7B+,1,no,pinch/cross,no,40
+3/23/23,Bouldering,International,Kilter Board,6C,1,yes,pinch/sloper,no,40
+3/23/23,Bouldering,International,Kilter Board,7A+,1,yes,edge/undercling,no,40
+3/23/23,Bouldering,International,Kilter Board,6B+,1,yes,pinch,no,40
+3/23/23,Bouldering,International,Kilter Board,7C,13,no,pinch,no,50
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,straight
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,yes,straight
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,pockets,no,straight
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper/crimp,no,straight
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,crimp/dyno,no,overhang
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/dyno,yes,overhang
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,crimp,no,overhang
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,dyno/sloper,yes,straight
+3/25/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno,yes,overhang
+3/25/23,Bouldering,International,Kilter Board,6C,1,yes,crimp/sloper,no,40
+3/25/23,Bouldering,International,Kilter Board,6B,1,yes,jugs,no,40
+3/25/23,Bouldering,International,Kilter Board,6B+,1,yes,sloper,no,40
+3/25/23,Bouldering,International,Kilter Board,6B+,1,no,crimp/edge,no,40
+3/25/23,Bouldering,International,Kilter Board,8C,1,no,crimp,no,70
+3/26/23,Bouldering,International,Kilter Board,6C,1,yes,edge,no,20
+3/26/23,Bouldering,International,Kilter Board,7A,1,yes,edge/rose move,no,20
+3/26/23,Bouldering,International,Kilter Board,6C,1,no,pinch,no,20
+3/26/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/cross,no,20
+3/26/23,Bouldering,International,Kilter Board,6C,1,yes,sloper,no,20
+3/26/23,Bouldering,International,Kilter Board,6B+,1,yes,edge,no,40
+3/26/23,Bouldering,International,Kilter Board,6B+,1,yes,pinch,no,40
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno/crimp,yes,overhang
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,no,mantle/dyno,no,overhang
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,crimp,yes,slab
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/sloper,yes,overhang
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/sloper,yes,overhang
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V6,1,no,dyno/crimp,no,overhang
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V7,1,no,pinch/sloper,no,overhang
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,dyno/pocket,yes,straight
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,sloper/mantle,yes,straight
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+3/26/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,pinch,yes,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,jugs,no,overhang
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,dyno/sloper,no,overhang
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,sloper,yes,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V5,2,yes,sloper,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,sloper,yes,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V6,2,yes,sloper,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V7,1,no,pinch/sloper,no,straight
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,slab
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,run-a-jump,no,slab
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,mantle,no,slab
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,mantle,yes,slab
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,crimp,no,slab
+3/27/23,Bouldering,United States,Gravity Vault Montclair,V8,1,yes,crimp,yes,slab
+3/27/23,Bouldering,International,Kilter Board,7A+,1,yes,pinch,yes,40
+3/27/23,Bouldering,International,Kilter Board,7C,1,no,sloper,no,40
+3/27/23,Bouldering,International,Kilter Board,7B,1,no,pinch,no,40
+3/27/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+3/27/23,Bouldering,International,Kilter Board,7A+,1,yes,crimp/cross,no,40
+3/27/23,Bouldering,International,Kilter Board,7C+,1,no,crimp/pinch,no,40
+3/27/23,Bouldering,International,Kilter Board,6B+,1,yes,crimp,no,40
+3/27/23,Bouldering,International,Kilter Board,7A+,1,no,crimp,no,40
+3/27/23,Bouldering,International,Kilter Board,7A+,1,no,pinch,no,40
+3/27/23,Bouldering,International,Kilter Board,6B,1,yes,gaston,no,50
+3/27/23,Bouldering,International,Kilter Board,7C,1,no,pinch/dyno,no,50
+3/27/23,Bouldering,International,Kilter Board,7C+,4,no,crimp/gaston,no,50
+3/27/23,Bouldering,International,Kilter Board,7A,1,yes,gaston,no,50
+3/27/23,Bouldering,International,Kilter Board,7A,1,yes,edge,no,50
+3/27/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,50
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V3,1,yes,sloper,yes,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,edge,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,crimp,yes,straight
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V7,7,no,sloper/edge,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/sloper,yes,straight
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,crimp/sloper,yes,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V8,1,no,dyno/sloper,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V9,9,no,crimp/sloper,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V7,1,yes,sloper/mantle,yes,straight
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,mantle,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V8,2,yes,dyno/sloper,no,overhang
+3/30/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,mantle,no,overhang
+3/30/23,Bouldering,International,Kilter Board,7C+,1,no,undercling,no,50
+3/30/23,Bouldering,International,Kilter Board,7C,3,no,sloper/gaston,no,50
+3/30/23,Bouldering,International,Kilter Board,7C+,2,no,crimp/sloper,no,50
+3/30/23,Bouldering,International,Kilter Board,7C+,3,yes,crimp/gaston,no,45
+3/30/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,45
+3/30/23,Bouldering,International,Kilter Board,7A+,1,no,gaston/sloper,no,45
+3/30/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp/pinch,no,45
+3/30/23,Bouldering,International,Kilter Board,7A,1,no,pinch,no,40
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V4,1,yes,pinch/sloper,yes,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V5,1,yes,crimp/dyno,yes,overhang
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V1,1,yes,sloper,no,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V2,1,yes,sloper,no,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno/sloper,no,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno/sloper,yes,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V6,1,yes,dyno/sloper,yes,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V7,3,yes,dyno/edge,no,straight
+3/31/23,Bouldering,United States,Gravity Vault Montclair,V7,2,yes,dyno/edge,yes,straight
+3/31/23,Bouldering,International,Kilter Board,7C,2,yes,crimp/pinch,no,60
+3/31/23,Bouldering,International,Kilter Board,7C,1,no,pinch/crimp,no,45
+3/31/23,Bouldering,International,Kilter Board,7C+,5,no,crimp/cross,no,50
+3/31/23,Bouldering,International,Kilter Board,7C,4,no,pinch/crimp,no,50
+4/2/23,Bouldering,United States,Powerlinez,V2,1,yes,edge,no,straight
+4/2/23,Bouldering,United States,Powerlinez,V3,1,yes,sloper,no,overhang
+4/2/23,Bouldering,United States,Powerlinez,V0,1,yes,jugs,no,overhang
+4/2/23,Bouldering,United States,Powerlinez,V6,1,no,crimp,no,overhang
+4/2/23,Bouldering,United States,Powerlinez,V7,5,no,crimp,no,overhang
+4/2/23,Bouldering,United States,Powerlinez,V10,5,no,crimp,no,straight
+4/7/23,Bouldering,Germany,Boulderwelt West,6C+,3,no,sloper,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,6B+,1,yes,sloper/crimp,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,6B,1,yes,crimp,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7B+,1,no,dyno/sloper,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7B,2,no,crimp,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7B,1,yes,crimp/campus,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7A+,1,no,pinch,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,6C+,2,yes,sloper,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7B,1,yes,crimp,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,5C,1,yes,jugs,no,straight
+4/7/23,Bouldering,Germany,Boulderwelt West,7A+,1,yes,sloper,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7A+,1,yes,crimp,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,6C+,1,no,pinch,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,6A+,1,yes,jugs,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7A,1,no,crimp,no,overhang
+4/7/23,Bouldering,Germany,Boulderwelt West,7B,1,yes,crimp/pinch,no,straight
+4/9/23,Bouldering,International,Kilter Board,7C,1,no,crimp/pinch,no,40
+4/9/23,Bouldering,International,Kilter Board,7C,1,no,dyno,no,50
+4/9/23,Bouldering,International,Kilter Board,7B+,2,no,crimp,no,40
+4/9/23,Bouldering,International,Kilter Board,7B,1,no,crimp,no,40
+4/9/23,Bouldering,Germany,Element Bouldering,6A,1,yes,sloper,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6A,1,yes,jugs,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6B,1,yes,crimp,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6B,2,no,sloper/coordination,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6A,1,yes,sloper/crimp,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,yes,sloper/crimp,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,yes,pinch/crimp,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,6B,1,yes,sloper,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,7B+,2,no,crimp,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,no,sloper/balance,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,no,sloper,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,7A+,1,no,sloper,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,no,pinch,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,7A+,5,yes,dyno/sloper,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6A,1,yes,sloper,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,yes,balance/crimp,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,yes,sloper,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,6B,1,no,pinch/mantle,no,overhang
+4/9/23,Bouldering,Germany,Element Bouldering,6B,1,yes,sloper,no,straight
+4/9/23,Bouldering,Germany,Element Bouldering,6C+,1,no,sloper,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,4C,1,yes,sloper,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,5A,1,yes,two finger pocket ,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,6B,1,yes,sloper,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,6B,1,yes,edge,no,overhang
+4/12/23,Bouldering,Germany,Heavens Gate,7A,1,yes,crimp,no,overhang
+4/12/23,Bouldering,Germany,Heavens Gate,6A,1,yes,sloper,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,7B,6,yes,sloper/dyno,no,overhang
+4/12/23,Bouldering,Germany,Heavens Gate,6B,1,yes,sloper,no,overhang
+4/12/23,Bouldering,Germany,Heavens Gate,5A,1,yes,sloper,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,7C,1,no,sloper,no,overhang
+4/12/23,Bouldering,Germany,Heavens Gate,6C,1,no,sloper/mantle,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,6C,1,no,pinch,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,6C,1,yes,sloper,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,5A,1,yes,compression,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,6A,1,yes,dyno,no,straight
+4/12/23,Bouldering,Germany,Heavens Gate,7C,1,no,sloper/crimp,no,overhang
+4/12/23,Bouldering,Germany,Heavens Gate,7A,1,yes,pinch,no,overhang
+4/14/23,Bouldering,International,Kilter Board,6B,1,yes,edge,no,20
+4/14/23,Bouldering,International,Kilter Board,6B,1,yes,sloper,no,40
+4/14/23,Bouldering,International,Kilter Board,6B+,1,yes,jugs,no,40
+4/14/23,Bouldering,International,Kilter Board,7B,1,yes,undercling,no,40
+4/14/23,Bouldering,International,Kilter Board,7C,1,no,crimp/pinch,no,40
+4/14/23,Bouldering,International,Kilter Board,7C,1,no,crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,7C,1,no,crimp,no,50
+4/14/23,Bouldering,International,Kilter Board,7A,1,yes,crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,7A+,2,yes,pinch/crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,7A+,1,no,pinch/crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,7C+,1,no,pinch/crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,6B,1,yes,crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,6C,1,yes,crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,7A,1,yes,crimp/pinch,no,40
+4/14/23,Bouldering,International,Kilter Board,6C+,1,yes,crimp,no,40
+4/14/23,Bouldering,International,Kilter Board,6C+,1,no,pinch,no,40
+4/14/23,Bouldering,Germany,Element Bouldering,6B,1,yes,crimp,no,overhang
+4/14/23,Bouldering,Germany,Element Bouldering,6C+,1,no,sloper/pinch,no,overhang
+4/14/23,Bouldering,Germany,Element Bouldering,6B,1,no,sloper,no,slab
+4/14/23,Bouldering,Germany,Element Bouldering,6C+,1,no,crimp/sloper,no,straight
+4/14/23,Bouldering,Germany,Element Bouldering,6C_,4,no,sloper/mantle,no,overhang
+4/14/23,Bouldering,Germany,Element Bouldering,6C+,1,yes,pinch/sloper,no,overhang
+4/14/23,Bouldering,Germany,Element Bouldering,6B,1,yes,sloper,no,straight
+4/14/23,Bouldering,Germany,Element Bouldering,6C+,3,yes,crimp,no,slab
+4/14/23,Bouldering,Germany,Element Bouldering,7A+,1,no,dyno/sloper,no,overhang
+4/14/23,Bouldering,Germany,Element Bouldering,6B,5,no,balance ,no,straight
+4/14/23,Bouldering,Germany,Element Bouldering,6C+,2,no,sloper,no,overhang
+4/14/23,Bouldering,Germany,Element Bouldering,6B,1,yes,sloper/balance,no,straight
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
