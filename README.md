@@ -1,30 +1,22 @@
-# Climbing_Performance_Myth_Tester
+# Climbing Data Analysis
 
-Hi! This is where I am currently storing data I am collecting on my rock climbing progression. At the moment, the data consists only of indoor climbing records but this will hopefully be expanded over the coming few months. I am also looking to combine my own climbing data with others' data, though I am currently working on how best to obtain said data (I'm mostly trying to make data submission more convenient at the moment).
+## TLDR
 
-The endgoal of this data collection to build out machine learning models for predicting the estimated time for a given climber to successfully climb a user-selected difficulty grade.
+I am currently learning Python for data science and have been recording data about my own rock climbing over the past 12 months (as of May 2023). This data is being used so I can practice Python topics as I learn them. 
 
-At the moment, I am storing the data in an Excel file since I expect the data to remain relatively small in size (no larger than a few thousand rows). If the project should become collaborative (which I hope to make it), I may swtich to using a database for ease of use in multiple locations.
+## Slightly Longer Version
 
-In case you are wondering why I called this repository "Climbing_Performance_Myth_Tester", there are two reasons:
+It is the hope that this will eventually be expanded into a full system of acquiring data from many people (ideally, thousands) and move away from the CSV-dependent format it currently exists in. If a sufficiently large dataset can be acquired, meaning approximately 10,000,000 rows of data, I will work on developing a machine learning-driven system for predicting three metrics:
 
-   1. I have heard a lot of newer climbers, especially in rock climbing gyms, express the (I believe) false sentiment that really skilled climbers fall less than beginner or intermediate climbers. Having no actual data with which to assess the truthfulness of said assertion and a surprisingly large amount of curiousity about the question, I started collecting data on my own climbing.
-   2. In addition to this possible myth about climbing, I have encountered a rather large number of seemingly ubiquitous beliefs among climbers about climbing, including but not limited to:
-  
-      I. American climbing gyms overgrade and are usually easier than European gyms.
-      
-      II. A person's outdoor climbing max grade is usually two lower than their indoor max grade.
-      
-      III. Kilter board climbs are overgraded.
-      
-      IV. Bouldering is easier than lead climbing.
-      
-      V. Speed climbing is boring (not a measurable claim but one that I contest all the same).
-      
-      ...and my personal favorite.
-      
-      VI. Crimps are the hardest type of hold to deal with (in all fairness, I've heard the same said of every type of hold except jugs).
-      
-And that's a short(ish) summary of what this repository is for, why it's called what it is, and what I hope to do with it. Enjoy!
+1. Number of attempts required to complete a given climb
+2. Real grade capability (i.e. what grade are you really likely to complete within 1 or 2 attempts)
+3. Time required to climb a given grade (this will probably be the metric of greatest interest)
 
-p.s. feel free to critique any of the components I put in this repository. I am always looking to improve my work.
+This repository holds or will hold the following:
+
+1. A CSV file containin data about my rock climbing history beginning in May 2022 up to the present.
+2. A Jupyter notebook containing data visualization and analysis of the CSV data.
+3. (Not currently listed) Python files containing relevant classes
+4. (Not currently listed) A live file with links to a dashboard done with Microsoft Excel, Power BI, or Tableau (TBD)
+
+To bolster data collection success, I will also (after the conclusion of the data science bootcamp that is currently eating up a solid 85% of my waking hours) shift way from manual collection and storage in a CSV. Instead, I will (hopefully) work jointly with a software engineer to utilize an API accessible through a webpage (or better yet, an app) to make data collection simpler & faster for climbers.
