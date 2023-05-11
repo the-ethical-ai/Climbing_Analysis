@@ -15,7 +15,7 @@ It is the hope that this will eventually be expanded into a full system of acqui
 This repository holds or will hold the following:
 
 1. A CSV file containin data about my rock climbing history beginning in May 2022 up to the present.
-2. A Jupyter notebook containing data visualization and analysis of the CSV data.
+2. (Not currently listed) A Jupyter notebook containing data visualization and analysis of the CSV data.
 3. (Not currently listed) Python files containing relevant classes
 4. (Not currently listed) A live file with links to a dashboard done with Microsoft Excel, Power BI, or Tableau (TBD)
 
